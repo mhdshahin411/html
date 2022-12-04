@@ -1,0 +1,20 @@
+h1{
+    background-color: aqua;
+    color: black; 
+}
+h2{
+     color: burlywood;
+}
+h3{ 
+     color: cadetblue; 
+}
+p{
+   font-style: italic; color: aliceblue;
+    background-image: url(https://ww1.prweb.com/prfiles/2010/06/17/4161594/2_Getty04.jpg);
+}
+img{
+    width: 100px; 
+    height: 100px; 
+    opacity: 0.9;
+    border-radius: 50%;
+}
